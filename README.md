@@ -13,7 +13,6 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Raffaele di Costanzo"
         self.role = "Senior Software Engineer"
-        self.company = "CourtCorrect"
         self.language_spoken = ["it_IT", "en_GB"]
         
     @staticmethod
